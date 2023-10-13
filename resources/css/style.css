@@ -23,3 +23,18 @@ div p {
     font-size: 16px;
     margin: 0 auto;
 }
+
+h2 {
+    font-family: verdana;
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+    white-space: nowrap;
+}
+
+#graytext {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+    color: gray;
+    white-space: nowrap;
+}
